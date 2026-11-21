@@ -58,3 +58,7 @@ Every change must consider these areas:
 ## Git / GitHub
 
 If changing code around `git`, `gh`, source-control, or review behavior read [`docs/agents-md-refs/git-workflow.md`](./docs/agents-md-refs/git-workflow.md).
+
+## SOUL.md
+
+See [SOUL.md](SOUL.md) for the purpose and operating principles of the Orca observer in this fork. A human reviews changes to the SOUL before merge.
